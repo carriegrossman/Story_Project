@@ -1,0 +1,68 @@
+html {
+  background-color: mintcream;
+}
+
+.body {
+border: 5px dotted rgb(74, 143, 91);
+border-radius: 300px;
+font-family: 'Dancing Script', cursive;
+max-width: 1000px;
+margin-left: 50px;
+margin-right: auto;
+background-color: mintcream;
+}
+
+.h1 {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.paragraph {
+  font-size: 25px;
+  display: flex;
+  justify-content: right;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 25px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+a:link,
+a:visited {
+  color: #02250b;
+  margin: 31px;
+}
+.cabin {
+  border-radius:350px;
+  display: flex;
+  justify-content: center;
+
+}
+.trees{
+  border-radius:350px;
+  display: flex;
+  justify-content: center;
+}
+
+.dove{
+  border-radius:350px;
+  display: flex;
+  justify-content: center;
+}
+
+.ring {
+  border-radius:350px;
+  display: flex;
+  justify-content: center;
+}
+
+
+  .imageplace {
+  display: flex;
+  justify-content: center;
+}
